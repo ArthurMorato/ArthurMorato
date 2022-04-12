@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Arthur Morato;</h1>
 <h3 align="center">A passionate developer and problem solver from Brazil. I'm gratuated in Computer Science, where i could discover the genius behind off a RecSys. :)</h3>
 
-- 🔭 I’m currently working on **my freelancer's jobs.**
+- 🔭 I’m currently working on **my freelancer's jobs.** 🤝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
