@@ -1,4 +1,3 @@
-<h1 align="center">Hi</h1><h2 align="center">there 👋, I'm Arthur Morato;</h2>
 <h1 align="center">Hi there 👋, I'm Arthur Morato;</h1>
 <h3 align="center">A passionate developer and problem solver from Brazil. I'm gratuated in Computer Science, where i could discover the genius behind off a RecSys. :)</h3>
 
