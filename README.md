@@ -14,4 +14,4 @@ I specialize in building resilient, AI-augmented backends using Java and the SAP
 ### 🛠️ Current Focus
 Developing high-performance extensions for SAP S/4HANA and exploring autonomous AI Agents for system monitoring.
 
-[LinkedIn]([(https://www.linkedin.com/in/arthur-morato-a71629339/)]) | [Email][(arthursmorato@gmail.com)]
+[LinkedIn](https://www.linkedin.com/in/arthur-morato-a71629339/) | [Email](arthursmorato@gmail.com)
